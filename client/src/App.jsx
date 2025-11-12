@@ -8,7 +8,7 @@ function App() {
 
   return (
     <>
-      <h1>MY APP</h1>
+      <h1>BUS/TRANSPORT TRACKER</h1>
     </>
   )
 }
